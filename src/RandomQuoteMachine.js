@@ -97,7 +97,7 @@ const mapStateToProps = (state) => {
       quote: state
   }
 }
-
+// TITI
 const mapDispatchToProps = (dispatch) => {
   return {
       newQuote: (quote) => {
