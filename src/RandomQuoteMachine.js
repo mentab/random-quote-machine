@@ -16,7 +16,7 @@ const changeQuote = () => {
     dispatch(requestingQuote());
     return fetch('https://thesimpsonsquoteapi.glitch.me/quotes')
     .then(res => {
-      dispatch(receivedQuote(res.data))
+      dispatch(receivedQuote(res[0]))
     });
   }
 }
