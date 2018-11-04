@@ -1,6 +1,6 @@
 {
-  "main.js": "/random-quote-machine/static/js/main.5c554192.chunk.js",
-  "main.js.map": "/random-quote-machine/static/js/main.5c554192.chunk.js.map",
+  "main.js": "/random-quote-machine/static/js/main.242b55d9.chunk.js",
+  "main.js.map": "/random-quote-machine/static/js/main.242b55d9.chunk.js.map",
   "static/css/1.e2f10f93.chunk.css": "/random-quote-machine/static/css/1.e2f10f93.chunk.css",
   "static/js/1.010c010f.chunk.js": "/random-quote-machine/static/js/1.010c010f.chunk.js",
   "static/js/1.010c010f.chunk.js.map": "/random-quote-machine/static/js/1.010c010f.chunk.js.map",
@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/random-quote-machine/static/js/runtime~main.b8507572.js.map",
   "static/css/1.e2f10f93.chunk.css.map": "/random-quote-machine/static/css/1.e2f10f93.chunk.css.map",
   "index.html": "/random-quote-machine/index.html",
-  "precache-manifest.272423636517afee1529c3dae2fa1e7f.js": "/random-quote-machine/precache-manifest.272423636517afee1529c3dae2fa1e7f.js",
+  "precache-manifest.da400f573de08ab494db403af3751e22.js": "/random-quote-machine/precache-manifest.da400f573de08ab494db403af3751e22.js",
   "service-worker.js": "/random-quote-machine/service-worker.js"
 }
