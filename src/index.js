@@ -8,8 +8,8 @@ import { render } from 'react-dom';
 const store = configureStore();
 
 render(
-    <Provider store={store}>
-        <RandomQuoteMachine />
-    </Provider>, 
-    document.getElementById('root')
+	<Provider store={store}>
+		<RandomQuoteMachine />
+	</Provider>,
+	document.getElementById('root')
 );
